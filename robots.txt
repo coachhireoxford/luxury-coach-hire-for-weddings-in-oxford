@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coachhireoxford.github.io/luxury-coach-hire-for-weddings-in-oxford/sitemap.xml
